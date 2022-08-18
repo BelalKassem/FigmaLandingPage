@@ -1,7 +1,7 @@
 # Figma Landing Page
 Transformed a figma design into a fully responisve modern UI website using React.
 
-Figma Design:
+Figma Design (Not my design):
 https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A1
 
 Demo Link: 
